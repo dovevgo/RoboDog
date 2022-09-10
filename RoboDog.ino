@@ -1,7 +1,5 @@
 /* RoboDog
  by DOVEVGO 
- 
- 
 */
 
 #include <Servo.h>
@@ -21,7 +19,7 @@ int backCorrectionAngle = -30;
 
 int frontStartAngle = 145;
 int frontBlockAngle = 90;
-int frontCorrectionAngle = -50;
+int frontCorrectionAngle = -50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ;
 
 void walkForward(){
 
